@@ -1,30 +1,32 @@
-# 🧑‍💼 Job Portal Website  
+# 🧑‍💼 Job Portal (Static Website)
 
-A simple **Job Portal project** built with **HTML, CSS, and JavaScript**.  
-This project showcases job listings in a card layout, where users can view job details and apply with a single click.  
+A **Job Portal Website** built using **HTML, CSS, and JavaScript**.  
+This project is designed to showcase job listings in a clean and responsive UI. Users can browse job cards, view essential details, and apply with a click.  
 
----
-
-## 🚀 Features  
-- ✅ Responsive job cards (company logo, title, location, salary, type)  
-- ✅ "Apply Now" button with interactive feedback  
-- ✅ Clean and modern UI design  
-- ✅ Mobile-friendly layout  
-- ✅ Easy to extend with a real application form  
+🌐 **Live Demo:** [Job Portal](https://vamohammedilyas.github.io/Job-Portal-static/)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Features
+- 📌 Job cards with **title, company, location, salary, and type**
+- 🎨 **Modern, responsive UI** using Flexbox/Grid
+- 📱 Fully **mobile-friendly design**
+- 🖱️ Interactive **Apply Now** button
+- 💡 Easy to extend with job details page or application form
+
+---
+
+## 🛠️ Tech Stack
 - **HTML5** → Structure  
-- **CSS3** → Styling and responsiveness  
+- **CSS3** → Styling & Responsiveness  
 - **JavaScript (Vanilla)** → Interactivity  
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
 ```bash
-job-portal/
-├── index.html    # Main page
-├── style.css     # Styling
-├── script.js     # Interactive logic
-└── README.md     # Documentation
+Job-Portal-static/
+├── index.html      # Main page
+├── style.css       # Stylesheet
+├── script.js       # Interactive logic
+└── README.md       # Documentation
