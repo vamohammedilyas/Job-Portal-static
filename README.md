@@ -12,7 +12,7 @@ This project is designed to showcase job listings in a clean and responsive UI. 
 - 🎨 **Modern, responsive UI** using Flexbox/Grid
 - 📱 Fully **mobile-friendly design**
 - 🖱️ Interactive **Apply Now** buttons
-- 💡 Easy to extend with job details page or application form
+- 💡 Easy to extend with job details page or application forms
 
 ---
 
