@@ -11,7 +11,7 @@ This project is designed to showcase job listings in a clean and responsive UI. 
 - 📌 Job cards with **title, company, location, salary, and type**
 - 🎨 **Modern, responsive UI** using Flexbox/Grid
 - 📱 Fully **mobile-friendly design**
-- 🖱️ Interactive **Apply Now** button
+- 🖱️ Interactive **Apply Now** buttons
 - 💡 Easy to extend with job details page or application form
 
 ---
